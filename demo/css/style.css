@@ -1,0 +1,5 @@
+@import 'reset/reset.css';
+
+.polyshift svg:last-child {
+  display: none;
+}
