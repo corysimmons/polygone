@@ -1,13 +1,3 @@
-// http://unheap.com
-
-$(function() {
-  $('.browsehappy').click(function() {
-    $(this).slideUp();
-  });
-});
-
-
-
 // Polygone v0.0.1 - https://github.com/corysimmons/polygone
 
 $(function() {

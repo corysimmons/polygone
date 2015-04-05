@@ -1,5 +1,20 @@
 @import 'reset/reset.css';
 
-.polyshift svg:last-child {
+.polygone svg:last-child {
   display: none;
+}
+
+button {
+  background: tomato;
+  color: white;
+  font-weight: bold;
+  padding: 1em 3em;
+  border: 0;
+  outline: none;
+  cursor: pointer;
+  margin: 2rem;
+}
+
+html {
+  padding: 3rem;
 }

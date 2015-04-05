@@ -26,13 +26,13 @@ body:after,
 h1, figure, fieldset {
   margin: 0;
 }
-html {
-  overflow-y: scroll;
+html, body {
+  height: 100%;
   overflow-x: hidden;
 }
 body {
   width: 100%;
-  overflow-x: hidden;
+  overflow-y: scroll;
 }
 img,
 video,
